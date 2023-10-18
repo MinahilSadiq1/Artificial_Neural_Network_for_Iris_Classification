@@ -9,10 +9,10 @@ Results
 
 ## Installation:
 Ensure you have the required libraries installed:
-numpy
-keras
-scikit-learn
-IPython
+* numpy
+* keras
+* scikit-learn
+* IPython
 You can install them using pip:
 ```bash
   pip install numpy
