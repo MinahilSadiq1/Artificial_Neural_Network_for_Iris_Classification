@@ -4,7 +4,7 @@ This project explores the use of different neural network architectures on the I
 ## Table of Contents:
 - [Installation](#installation)
 - [Usage](#usage)
-- [Model Architectures](#model-architectures)
+- [Model Architecture](#model-architecture)
 - [Results](#results)
 
 ## Installation:
