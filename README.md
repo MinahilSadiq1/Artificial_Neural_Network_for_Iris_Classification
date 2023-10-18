@@ -2,10 +2,10 @@
 This project explores the use of different neural network architectures on the Iris dataset to classify flower species. The dataset is sourced from Kaggle.
 
 ## Table of Contents:
-Installation
-Usage
-Model Architectures
-Results
+- [Installation](#installation)
+- [Usage](#usage)
+- [Model Architectures](#model-architectures)
+- [Results](#results)
 
 ## Installation:
 Ensure you have the required libraries installed:
