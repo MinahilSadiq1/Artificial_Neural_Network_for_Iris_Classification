@@ -9,10 +9,10 @@ This project explores the use of different neural network architectures on the I
 
 ## Installation:
 Ensure you have the required libraries installed:
-*numpy
-*keras
-*scikit-learn
-*IPython
+- `numpy`
+- `keras`
+- `scikit-learn`
+- `IPython`
 You can install them using pip:
 ```bash
   pip install numpy
