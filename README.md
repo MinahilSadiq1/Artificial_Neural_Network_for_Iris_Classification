@@ -30,20 +30,20 @@ git clone https://github.com/MinahilSadiq1/Artificial_Neural_Network_for_Iris_Da
 Three neural network architectures are develp in it using different combinations of activation functions:
 For all three architectures, at Input layer ReLU is used , and for Output layer Softmax is used , but for first architecture, we used Sigmoid activation at hidden layer, for second architecture, we used Tanh at hidden layer. And for third, we used Linear activation function at hidden layer.
 
-### Sigmoid Model:
-Input layer with 10 neurons (ReLU activation)
-Hidden layer with 8 neurons (Sigmoid activation)
-Output layer with 3 neurons (Softmax activation)
+1. **Sigmoid Model**:
+   - Input layer with 10 neurons (ReLU activation)
+   - Hidden layer with 8 neurons (Sigmoid activation)
+   - Output layer with 3 neurons (Softmax activation)
 
-### Tanh Model:
-Input layer with 10 neurons (ReLU activation)
-Hidden layer with 8 neurons (Tanh activation)
-Output layer with 3 neurons (Softmax activation)
+2. **Tanh Model**:
+   - Input layer with 10 neurons (ReLU activation)
+   - Hidden layer with 8 neurons (Tanh activation)
+   - Output layer with 3 neurons (Softmax activation)
 
-### Linear Model:
-Input layer with 10 neurons (ReLU activation)
-Hidden layer with 8 neurons (Linear activation)
-Output layer with 3 neurons (Softmax activation)
+3. **Linear Model**:
+   - Input layer with 10 neurons (ReLU activation)
+   - Hidden layer with 8 neurons (Linear activation)
+   - Output layer with 3 neurons (Softmax activation)
 
 ## Results
 The models' performance is evaluated on a test set. After training and evaluating each architecture, you should see a summary of the accuracies for each activation function.
