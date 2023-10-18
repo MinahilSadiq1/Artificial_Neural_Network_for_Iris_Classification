@@ -13,6 +13,7 @@ Ensure you have the required libraries installed:
 - `keras`
 - `scikit-learn`
 - `IPython`
+  
 You can install them using pip:
 ```bash
   pip install numpy
@@ -25,7 +26,7 @@ Clone this repository to your local machine using this command:
 git clone https://github.com/MinahilSadiq1/Artificial_Neural_Network_for_Iris_Dataset.git
 ```
 
-## Model Architecture:
+## Model-Architecture:
 Three neural network architectures are develp in it using different combinations of activation functions:
 For all three architectures, at Input layer ReLU is used , and for Output layer Softmax is used , but for first architecture, we used Sigmoid activation at hidden layer, for second architecture, we used Tanh at hidden layer. And for third, we used Linear activation function at hidden layer.
 
