@@ -21,7 +21,9 @@ But mostly in Google colab, these libraries are availabe and requirements are sa
 
 ## Usage:
 Clone this repository to your local machine using this command: 
+```bash
 git clone https://github.com/MinahilSadiq1/Artificial_Neural_Network_for_Iris_Dataset.git
+```
 
 ## Model Architecture:
 Three neural network architectures are develp in it using different combinations of activation functions:
