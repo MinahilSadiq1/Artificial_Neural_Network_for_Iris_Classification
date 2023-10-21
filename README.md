@@ -25,6 +25,15 @@ Clone this repository to your local machine using this command:
 ```bash
 git clone https://github.com/MinahilSadiq1/Artificial_Neural_Network_for_Iris_Dataset.git
 ```
+At this point 
+```bash
+#loading dataset
+iris = load_iris()
+```
+please provide your dataset file correct name. You can also upload your datafile to google drive and then access it using this piece of code:
+#loading dataset
+iris = '/path_to_your_dataset/yourfilename.csv'
+```
 
 ## Model-Architecture:
 Three neural network architectures are develp in it using different combinations of activation functions:
